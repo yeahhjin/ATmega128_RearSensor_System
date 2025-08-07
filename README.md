@@ -42,16 +42,15 @@ The system mimics a simplified rear sensor unit used in smart vehicles for obsta
 
 ---
 
-##🛠️ Hardware Setup
+## 🛠️ Hardware Setup
 
--Ultrasonic Sensor: TRIG on PE6, ECHO on PE7
+- **Ultrasonic Sensor** : TRIG on PE6, ECHO on PE7
 
--DC Motors: Controlled via PD0–PD2 and PD5–PD7
+- **DC Motors**: Controlled via PD0–PD2 and PD5–PD7
 
--Buzzer: Controlled via PB4
+- **Buzzer** : Controlled via PB4
 
--LEDs: PC0, PC1 for visual feedback
-
+- **LEDs**: PC0, PC1 for visual feedback
 
 - **Timers**: Timer1 used for echo pulse width measurement
 
